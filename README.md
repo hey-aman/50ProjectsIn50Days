@@ -8,3 +8,4 @@
 | 04  | [Hidden Search Widget](https://github.com/hey-aman/50ProjectsIn50Days/commit/8c648f908fac02db18561aed898175ea6e3fbd91)      | [Live Demo](https://aman-sah.github.io/04Day4-HiddenSearchWidget/)                |
 | 05  | [Blurry Loading](https://github.com/hey-aman/50ProjectsIn50Days/commit/667cd710cf9a7a2396ad1f860405b3b700d4919f)            | [Live Demo](https://aman-sah.github.io/Blurry-Loading/)                           |
 | 06  | [Scroll Animation](https://github.com/hey-aman/50ProjectsIn50Days/commit/e858e4c19a29ea02a22d43b9779545217e486edc)          | [Live Demo](https://aman-sah.github.io/Scroll-Animation/)                         |
+| 07  | [Split Landing Page]()                                                                                                      |[Live Demo]()                                                                      |
