@@ -13,3 +13,4 @@
 | 09  | [Sound Board](https://github.com/hey-aman/50ProjectsIn50Days/commit/aff0c9dee42bd3c3ff3249be5eb3d785d708ab47)               | [Live Demo](https://aman-sah.github.io/Sound-Board/)                              | 
 | 10  | [Dad Jokes](https://github.com/hey-aman/50ProjectsIn50Days/commit/38a58596be3dfaea70199720815ff84fb1bab017)                 | [Live Demo](https://aman-sah.github.io/Dad-Jokes/)                                |
 | 11  | [Event KeyCodes](https://github.com/hey-aman/50ProjectsIn50Days/commit/89c52884c17988262ee1b5489917edc2232db75b)            | [Live Demo](https://aman-sah.github.io/Event-KeyCodes/)                           | 
+| 12  | [FAQ Collapse](https://github.com/hey-aman/50ProjectsIn50Days/commit/555207bfad8acd8d79ce6a1810cc39ccc022ca2b)              | [Live Demo](https://aman-sah.github.io/FAQ-Collapse/)                             |
