@@ -14,3 +14,4 @@
 | 10  | [Dad Jokes](https://github.com/hey-aman/50ProjectsIn50Days/commit/38a58596be3dfaea70199720815ff84fb1bab017)                 | [Live Demo](https://aman-sah.github.io/Dad-Jokes/)                                |
 | 11  | [Event KeyCodes](https://github.com/hey-aman/50ProjectsIn50Days/commit/89c52884c17988262ee1b5489917edc2232db75b)            | [Live Demo](https://aman-sah.github.io/Event-KeyCodes/)                           | 
 | 12  | [FAQ Collapse](https://github.com/hey-aman/50ProjectsIn50Days/commit/555207bfad8acd8d79ce6a1810cc39ccc022ca2b)              | [Live Demo](https://aman-sah.github.io/FAQ-Collapse/)                             |
+| 13  | [Random Choice Picker](https://github.com/hey-aman/50ProjectsIn50Days/commit/8166e26007904c8e85d51a1ad71da7e838abe09f)      | [Live Demo](https://aman-sah.github.io/Random-Choice-Picker/)                     |
