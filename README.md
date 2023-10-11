@@ -24,3 +24,4 @@
 | 20  | [Button Ripple Effect](https://github.com/hey-aman/50ProjectsIn50Days/commit/eb528cb06b028c86dd8ed3f4fedcb22265c274f0)      | [Live Demo](https://aman-sah.github.io/Button-Ripple-Effect/)                     |
 | 21  | [Drag N Drop](https://github.com/hey-aman/50ProjectsIn50Days/commit/db8cf1c2e8c5c6f2ab31f797e5fd0833183e4295)               | [Live Demo](https://aman-sah.github.io/Drag-N-Drop/)                              |  
 | 22  | [Drawing App](https://github.com/hey-aman/50ProjectsIn50Days/commit/1f5a9299977c429923bff61a4bbc586fb52cb2dc)               | [Live Demo](https://aman-sah.github.io/Drawing-App/)                              | 
+| 23  | [Kinetic CSS Loader](https://github.com/hey-aman/50ProjectsIn50Days/commit/c38e17aa9a6a79c9d854b6c72189e4dee5e568e6)        | [Live Demo](https://aman-sah.github.io/Kinetic-CSS-Loader/)                       |
