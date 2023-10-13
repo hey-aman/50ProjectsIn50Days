@@ -26,7 +26,7 @@
 | 22  | [Drawing App](https://github.com/hey-aman/50ProjectsIn50Days/commit/1f5a9299977c429923bff61a4bbc586fb52cb2dc)               | [Live Demo](https://aman-sah.github.io/Drawing-App/)                              | 
 | 23  | [Kinetic CSS Loader](https://github.com/hey-aman/50ProjectsIn50Days/commit/c38e17aa9a6a79c9d854b6c72189e4dee5e568e6)        | [Live Demo](https://aman-sah.github.io/Kinetic-CSS-Loader/)                       |
 | 24  | [Content Placeholder](https://github.com/hey-aman/50ProjectsIn50Days/commit/05c4ed197e26f6c0d11961a7c6ae64d238867535)       | [Live Demo](https://aman-sah.github.io/Content-Placeholder/)                      |
-
+| 25  | [Sticky Navbar](https://github.com/hey-aman/50ProjectsIn50Days/commit/3e387d59f500321354e355e5c3d3fae5dc7aea1b)             | [Live Demo](https://aman-sah.github.io/Sticky-Navbar/)                            |  
 
 
 
