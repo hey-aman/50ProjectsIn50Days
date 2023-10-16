@@ -29,6 +29,8 @@
 | 25  | [Sticky Navbar](https://github.com/hey-aman/50ProjectsIn50Days/commit/3e387d59f500321354e355e5c3d3fae5dc7aea1b)             | [Live Demo](https://aman-sah.github.io/Sticky-Navbar/)                            |  
 | 26  | [Double Vertical Slider](https://github.com/hey-aman/50ProjectsIn50Days/commit/cd36efb84c96f2a042b767d2c1c7525ec39bcbd7)    | [Live Demo](https://aman-sah.github.io/Double-Vertical-Slider/)                   |   
 | 27  | [Toast Notification](https://github.com/hey-aman/50ProjectsIn50Days/commit/e1a809267335bb441b1b24ccb13de0e5dda4863a)        | [Live Demo](https://aman-sah.github.io/Toast-Notification/)                       |
+| 28  | [Github Profiles](https://github.com/hey-aman/50ProjectsIn50Days/commit/e1a809267335bb441b1b24ccb13de0e5dda4863a)           | [Live Demo](https://aman-sah.github.io/Github-Profiles/)                          | 
+
 
 
 
