@@ -35,6 +35,6 @@
 | 31  | [Password Generator](https://github.com/hey-aman/50ProjectsIn50Days/commit/6fd7eff62bf38372c94aec425f5595d4769a6fa1)        | [Live Demo](https://aman-sah.github.io/Password-Generator/)                       | 
 | 32  | [Good Cheap Fast](https://github.com/hey-aman/50ProjectsIn50Days/commit/41faf4b4ca7cfecf68174b8383848f644f861671)           | [Live Demo](https://aman-sah.github.io/Good-Cheap-Fast-Checkboxes/)               |
 | 33  | [Notes App](https://github.com/hey-aman/50ProjectsIn50Days/commit/d616c4cdd55d0e5e6bcc6b979efedc9e5e13acfb)                 | [Live Demo](https://aman-sah.github.io/Notes-App/)                                |
-
+| 34  | [Animated Countdown](https://github.com/hey-aman/50ProjectsIn50Days/commit/48b3214ac0a89aa90646a796d075bfef60884b26)        | [Live Demo](https://aman-sah.github.io/Animated-Countdown/)                       |
 
 
