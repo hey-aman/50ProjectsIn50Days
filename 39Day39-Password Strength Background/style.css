@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+  }
+  
+  .background {
+    background: url('https://imgs.search.brave.com/rPmbRfYEWE5YcbukH82Y-Rm0TbJ2zMHVUky95gBu2bo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTE2/MjU3MjgwNi9waG90/by91c2luZy1jb21w/dXRlci1tb3VzZS13/aGlsZS1wbGF5aW5n/LXZpZGVvLWdhbWUu/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PXJleEhNUHdraHBf/R2NQYUxhM0N3N0tl/RTNwaDUyaW9YQk0w/MTdRTEFJUGs9')
+      no-repeat center center/cover;
+    position: absolute;
+    top: -20px;
+    bottom: -20px;
+    left: -20px;
+    right: -20px;
+    z-index: -1;
+    filter: blur(20px);
+  }
