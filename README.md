@@ -1,5 +1,5 @@
 # 50 Projects in 50 Days - HTML/CSS and JavaScript
-
+ 
 |  #  | Project                                                                                                                     | Live Demo                                                                             |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/hey-aman/50ProjectsIn50Days/tree/main/01Day1-ExpandingCards)                           | [Live Demo](https://aman-sah.github.io/01Day1-ExpandingCards/)                    |
@@ -45,7 +45,7 @@
 | 41  | [Verify Account UI](https://github.com/hey-aman/50ProjectsIn50Days)                                                         |[Live Demo](https://aman-sah.github.io/Verify-Account-UI/)                         |   
 | 42  | [Live User Filter](https://github.com/hey-aman/50ProjectsIn50Days/commit/14e4a9b8733ec21305db05544b4ac36c38dd48d5)          |[live Demo](https://aman-sah.github.io/Live-User-Filter/)                          |
 | 43  | [Feedback UI Design](https://github.com/hey-aman/50ProjectsIn50Days/commit/0691d07253818d3cd1b9fd94108f1f841f5fc206)        |[Live Demo](https://aman-sah.github.io/Feedback-UI-Design/)                        |
-
+| 44  | [Custom Range Slider](https://github.com/hey-aman/50ProjectsIn50Days/commit/18a4f22e6bb23731f73ef847f2f320ced77d5b78)       |[Live Demo](https://aman-sah.github.io/Custom-Range-Slider/)                       | 
 
 
 
