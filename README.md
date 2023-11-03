@@ -1,5 +1,5 @@
 # 50 Projects in 50 Days - HTML/CSS and JavaScript
- 
+  
 |  #  | Project                                                                                                                     | Live Demo                                                                             |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/hey-aman/50ProjectsIn50Days/tree/main/01Day1-ExpandingCards)                           | [Live Demo](https://aman-sah.github.io/01Day1-ExpandingCards/)                    |
@@ -47,7 +47,7 @@
 | 43  | [Feedback UI Design](https://github.com/hey-aman/50ProjectsIn50Days/commit/0691d07253818d3cd1b9fd94108f1f841f5fc206)        |[Live Demo](https://aman-sah.github.io/Feedback-UI-Design/)                        |
 | 44  | [Custom Range Slider](https://github.com/hey-aman/50ProjectsIn50Days/commit/18a4f22e6bb23731f73ef847f2f320ced77d5b78)       |[Live Demo](https://aman-sah.github.io/Custom-Range-Slider/)                       | 
 | 45  | [Netflix Navigation](https://github.com/hey-aman/50ProjectsIn50Days/commit/b61c550b2622370e7fe9f0d25934427a4fc46ba6)        |[Live Demo](https://aman-sah.github.io/Netflix-Navigation/)                        |   
-
+| 46  | [Quiz App](https://github.com/hey-aman/50ProjectsIn50Days/commit/fb26695f3cf93309cf5d636048a4e29c80a3a4b3)                  |[Live Demo](https://aman-sah.github.io/Quiz-App/)                                  |
 
 
 
