@@ -48,7 +48,7 @@
 | 44  | [Custom Range Slider](https://github.com/hey-aman/50ProjectsIn50Days/commit/18a4f22e6bb23731f73ef847f2f320ced77d5b78)       |[Live Demo](https://aman-sah.github.io/Custom-Range-Slider/)                       | 
 | 45  | [Netflix Navigation](https://github.com/hey-aman/50ProjectsIn50Days/commit/b61c550b2622370e7fe9f0d25934427a4fc46ba6)        |[Live Demo](https://aman-sah.github.io/Netflix-Navigation/)                        |   
 | 46  | [Quiz App](https://github.com/hey-aman/50ProjectsIn50Days/commit/fb26695f3cf93309cf5d636048a4e29c80a3a4b3)                  |[Live Demo](https://aman-sah.github.io/Quiz-App/)                                  |
-
+| 47  | [Testimonial Box Switcher](https://github.com/hey-aman/50ProjectsIn50Days/commit/ca45df2690ec9e2345843891e0a0a2797f248ac1)  |[Live Demo](https://aman-sah.github.io/Testimonial-Box-Switcher/)                  | 
 
 
 
